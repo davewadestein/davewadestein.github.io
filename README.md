@@ -338,7 +338,7 @@
       <div class="grid3">
         <div class="card">
           <h3>Testimonial</h3>
-          <p>“Add a short quote here about clarity, pacing, and practical takeaways.”</p>
+          <p>“Super job, Dave! Best Python Instructor I've ever had! But seriously, packing a semester's worth of instruction in three days takes a true Wizard, and Dave did an awesome job of answering questions, drilling the fundamentals, and providing a quality learning opportunity.”</p>
           <p class="fine">— Name, Title, Company</p>
         </div>
         <div class="card">
