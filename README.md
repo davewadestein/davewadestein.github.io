@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -364,8 +363,7 @@
       <!-- UPDATE THIS EMAIL -->
       <div class="pill" style="margin:8px 0 14px;">
         <span aria-hidden="true">✉️</span>
-        <span class="mono">you@example.com</span>
-        <span style="opacity:.8;">(replace this)</span>
+        <span class="mono">instructor.dws@gmail.com</span>
       </div>
 
       <form id="leadForm">
@@ -424,7 +422,7 @@
 
     // Mailto lead form (simple + no backend)
     // Update to your actual email:
-    const DEST_EMAIL = "you@example.com";
+    const DEST_EMAIL = "instructor.dws@gmail.com";
 
     const form = document.getElementById("leadForm");
     const note = document.getElementById("formNote");
