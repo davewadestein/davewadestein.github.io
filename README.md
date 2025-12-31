@@ -337,9 +337,9 @@
       <h2 style="margin:0 0 10px;">Proof</h2>
       <div class="grid3">
         <div class="card">
-          <h3>Two Week Python/Data Quickstart</h3>
+          <h3>Two Week Python/Data Bootcamp</h3>
           <p>“Super job, Dave! Best Python Instructor I've ever had! But seriously, packing a semester's worth of instruction in three days takes a true Wizard, and Dave did an awesome job of answering questions, drilling the fundamentals, and providing a quality learning opportunity.”</p>
-          <p class="fine">— Name, Title, Company</p>
+          <!--<p class="fine">— Name, Title, Company</p>-->
         </div>
         <div class="card">
           <h3>Case result</h3>
