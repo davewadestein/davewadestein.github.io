@@ -209,7 +209,7 @@
           <a class="btn primary" href="#contact">Book a 20-minute call</a>
           <a class="btn" href="#services">See training options</a>
           <!-- Replace with your LinkedIn / calendar link -->
-          <a class="btn" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a class="btn" href="https://www.linkedin.com/davewadestein" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
         <div class="fine">
           Typical engagements: 1–2 day workshops • 3–6 week upskilling series • custom team enablement
