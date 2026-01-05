@@ -348,8 +348,9 @@
         </div>
         <div class="card">
           <h3>Credibility</h3>
-          <p>List credentials: years teaching, platforms, notable clients, etc.</p>
-          <p class="fine">Avoid buzzwords; use concrete facts.</p>
+          <p>• 30+ years teaching experience–10 years for the US Navy, 2 universities (even a high school), clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
+          <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
+          <p class="fine">• 4.7+ instructor rating overall
         </div>
       </div>
     </section>
