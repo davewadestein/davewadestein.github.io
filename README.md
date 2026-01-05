@@ -334,21 +334,21 @@
     </section>
 
     <section id="testimonials" class="panel" aria-label="Testimonials">
-      <h2 style="margin:0 0 10px;">Proof</h2>
+      <h2 style="margin:0 0 10px;">About Me</h2>
       <div class="grid3">
         <div class="card">
-          <h3>Two Week Python/Data Bootcamp</h3>
+          <h3>Student Review from a Python + Data Bootcamp</h3>
           <p>“Super job, Dave! Best Python Instructor I've ever had! But seriously, packing a semester's worth of instruction in three days takes a true Wizard, and Dave did an awesome job of answering questions, drilling the fundamentals, and providing a quality learning opportunity.”</p>
           <!--<p class="fine">— Name, Title, Company</p>-->
         </div>
         <div class="card">
-          <h3>Case result</h3>
-          <p>“Example: reduced onboarding time for analysts by X weeks after a Python + data series.”</p>
+          <h3>Student Review from a Weeklong Python Course</h3>
+          <p>“I really enjoyed how the class content was hands-on and focused. The lessons were well structured, and the instructor explained the concepts in a clear and approachable way. I especially liked the balance between theory and coding practice, which made the sessions engaging and helped reinforce what we learned.”</p>
           <p class="fine">Keep it specific and measurable.</p>
         </div>
         <div class="card">
           <h3>Credibility</h3>
-          <p>• 30+ years teaching experience–10 years for the US Navy, 2 universities (even a high school), clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
+          <p>• 30+ years teaching experience–ten years for the US Navy, UCSB computer science dept., as well as clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
           <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
           <p class="fine">• 4.7+ instructor rating overall</p>
         </div>
