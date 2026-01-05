@@ -350,7 +350,7 @@
           <h3>Credibility</h3>
           <p>• 30+ years teaching experience–10 years for the US Navy, 2 universities (even a high school), clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
           <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
-          <p class="fine">• 4.7+ instructor rating overall
+          <p class="fine">• 4.7+ instructor rating overall</p>
         </div>
       </div>
     </section>
