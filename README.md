@@ -344,10 +344,9 @@
         <div class="card">
           <h3>Student Review from a Weeklong Python Course</h3>
           <p>“I really enjoyed how the class content was hands-on and focused. The lessons were well structured, and the instructor explained the concepts in a clear and approachable way. I especially liked the balance between theory and coding practice, which made the sessions engaging and helped reinforce what we learned.”</p>
-          <p class="fine">Keep it specific and measurable.</p>
         </div>
         <div class="card">
-          <h3>Credibility</h3>
+          <h3>Experience</h3>
           <p>• 30+ years teaching experience–ten years for the US Navy, UCSB computer science dept., as well as clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
           <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
           <p class="fine">• 4.7+ instructor rating overall</p>
