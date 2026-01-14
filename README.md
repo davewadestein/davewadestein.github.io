@@ -256,7 +256,7 @@
       </div>
     </div>
 
-    <section id="services" class="panel" aria-label="What do I do?">
+    <section id="services" class="panel" aria-label="services">
       <h2 style="margin:0 0 10px;">Services</h2>
       <div class="grid3">
         <div class="card">
