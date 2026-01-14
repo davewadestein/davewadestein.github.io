@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Dave Wade-Stein | Freelance Technical Instructor</title>
-  <meta name="description" content="Freelance technical instructor for Python, data, and analytics teams. Fast onboarding, hands-on workshops, measurable outcomes." />
+  <meta name="description" content="Freelance technical instructor for Python, data, and analytics teams. Fast onboarding, hands-on training, measurable outcomes." />
   <style>
     :root{
       --bg:#0b1020; --panel:#111a33; --card:#0f1730;
@@ -201,8 +201,8 @@
       <div class="panel">
         <h1>Hands-on training that gets teams productive fast.</h1>
         <p class="sub">
-          I design and deliver practical workshops for engineering, analytics, and data teams—focused on
-          usable skills, real examples, and measurable outcomes.
+          I design and deliver practical training for engineering, analytics, and data
+          teams—focused on usable skills, real examples, and measurable outcomes.
         </p>
 
         <div class="ctaRow">
@@ -334,8 +334,14 @@
     </section>
 
     <section id="testimonials" class="panel" aria-label="Testimonials">
-      <h2 style="margin:0 0 10px;">About Me</h2>
+      <h2 style="margin:0 0 10px;">About Me + Testimonials</h2>
       <div class="grid3">
+        <div class="card">
+          <h3>Experience</h3>
+          <p>• 30+ years teaching experience–ten years for the US Navy, UCSB computer science dept., as well as clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
+          <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
+          <p class="fine">• 4.7+ instructor rating overall</p>
+        </div>
         <div class="card">
           <h3>Student Review from a Python + Data Bootcamp</h3>
           <p>“Super job, Dave! Best Python Instructor I've ever had! But seriously, packing a semester's worth of instruction in three days takes a true Wizard, and Dave did an awesome job of answering questions, drilling the fundamentals, and providing a quality learning opportunity.”</p>
@@ -344,12 +350,6 @@
         <div class="card">
           <h3>Student Review from a Weeklong Python Course</h3>
           <p>“I really enjoyed how the class content was hands-on and focused. The lessons were well structured, and the instructor explained the concepts in a clear and approachable way. I especially liked the balance between theory and coding practice, which made the sessions engaging and helped reinforce what we learned.”</p>
-        </div>
-        <div class="card">
-          <h3>Experience</h3>
-          <p>• 30+ years teaching experience–ten years for the US Navy, UCSB computer science dept., as well as clients such as salesƒorce, Starbucks, VMWare, Intuit, and many more.</p>
-          <p class="fine">• 3400+ lives transformed via teaching at Pluralsight</p>
-          <p class="fine">• 4.7+ instructor rating overall</p>
         </div>
       </div>
     </section>
