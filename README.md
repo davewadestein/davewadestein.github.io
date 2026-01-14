@@ -199,7 +199,7 @@
 
     <div class="hero">
       <div class="panel">
-        <h1>Hands-on training that gets teams productive fast.</h1>
+        <h1>Hands-on training to make teams productive quickly.</h1>
         <p class="sub">
           I design and deliver practical training for engineering, analytics, and data
           teams—focused on usable skills, real examples, and measurable outcomes.
@@ -256,7 +256,7 @@
       </div>
     </div>
 
-    <section id="services" class="panel" aria-label="Services">
+    <section id="services" class="panel" aria-label="What do I do?">
       <h2 style="margin:0 0 10px;">Services</h2>
       <div class="grid3">
         <div class="card">
@@ -291,7 +291,7 @@
       </div>
     </section>
 
-    <section id="process" class="panel" aria-label="Process">
+    <section id="process" class="panel" aria-label="How it works">
       <h2 style="margin:0 0 10px;">How it works</h2>
       <div class="split">
         <div class="card">
